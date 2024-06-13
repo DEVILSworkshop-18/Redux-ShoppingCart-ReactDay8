@@ -1,20 +1,11 @@
-### React ShoppingCart Task ###   
-Create a Todo App which have All CRUD Functionalities   
+### Create a Shopping Cart using Redux  ###   
+ Create a cart page with per-item price, per-item quantity, Total quantity and total amount.   
 
-1. Create Todo Task with task name , Description & status     
-2. By default status needs to added as not completed for created todo   
-3. There should be two buttons in the name of edit and Delete which used to perform update and delete created todos   
-4. By onclick on status it should show a dropdown for completed and not completed by that we can change the status of todo   
-5. All todos should be displayed in Card   
-6. There should be filter to display status completed, not completed and both statuses   
+ ### How the Cart page works ###   
+ 1. There will be some Products in the cart page .   
+ 2. If wanted , you can increase or decrease the quantity of the each product or you can remove the product from the cart using tghe remove button.   
+ 3. In the bottom of the page , you can able to see the total Amout for the products including the the total quantity will be shown  and the total quantity also be shown.   
 
-### How to use the Todo APP  ###   
-1. First of all , Ypu need to enter your activities tile and description of your activity.   
-2. Then enter the Add Todo Button to Add your activity to the list.   
-3. If you want to edit your activities title and description there will a edit buttton , where you can edit your activity.   
-4. If your want remove your todo , press the delete butoon.   
-5. After the task completed , change the status of the todo activity to completed.   
-6. If you want to check which todos are completed and which aren't, ther will be a filter option , so that tou can filter the todos which are completed and which aren't.   
+ For more Details , Check the below image   
 
-### For more knowledge View Below image ###   
-![alt text](public/2024-06-13.png)
+![alt text](public/cartpage.png)
